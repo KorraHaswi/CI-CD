@@ -1,6 +1,6 @@
 # CI-CD 
 # Jenkins piple line stages and steps 
-DevOps
+##DevOps
 Jenkins pipelines is set of plugins that helps in CD
 jenkins pipleline is an automated process using the tools such the plugins
 a pipleline is implemented in a file that is kept in the source code along with  rest of the source code. this file is called JenkinsFile
